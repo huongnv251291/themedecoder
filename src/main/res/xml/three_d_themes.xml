@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeyboardThemes xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ask="http://schemas.android.com/apk/res-auto">
+    <KeyboardTheme description="@string/keyboard_theme_description" id="37816fd0-9854-11e1-a8b0-0800200c9a66" index="1" nameResId="@string/keyboard_theme_name" popupThemeRes="@style/ThreeDeeAnyKeyboardPopupTheme" themeRes="@style/ThreeDeeAnyKeyboardTheme"/>
+</KeyboardThemes>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="action_done" format="boolean">
+    </attr>
+    <attr name="action_go" format="boolean">
+    </attr>
+    <attr name="action_next" format="boolean">
+    </attr>
+    <attr name="action_previous" format="boolean">
+    </attr>
+    <attr name="action_search" format="boolean">
+    </attr>
+    <attr name="action_send" format="boolean">
+    </attr>
+    <attr name="backgroundDimAmount" format="reference|float">
+    </attr>
+    <attr name="extraHintIcon" format="reference">
+    </attr>
+    <attr name="extraHintLabel" format="reference|string">
+    </attr>
+    <attr name="extraHintLabelAlign">
+        <flag name="center" value="17" />
+        <flag name="left" value="3" />
+        <flag name="right" value="5" />
+    </attr>
+    <attr name="extraHintLabelVAlign">
+        <flag name="bottom" value="80" />
+        <flag name="center" value="17" />
+        <flag name="top" value="48" />
+    </attr>
+    <attr name="extra_key_data" format="reference|string">
+    </attr>
+    <attr name="hintLabel" format="reference|string">
+    </attr>
+    <attr name="hintLabelAlign">
+        <flag name="center" value="17" />
+        <flag name="left" value="3" />
+        <flag name="right" value="5" />
+    </attr>
+    <attr name="hintLabelVAlign">
+        <flag name="bottom" value="80" />
+        <flag name="center" value="17" />
+        <flag name="top" value="48" />
+    </attr>
+    <attr name="hintOverflowIcon" format="reference">
+    </attr>
+    <attr name="hintOverflowLabel" format="reference|string">
+    </attr>
+    <attr name="hintTextColor" format="reference|color">
+    </attr>
+    <attr name="hintTextSize" format="reference|dimension">
+    </attr>
+    <attr name="iconKeyAction" format="reference">
+    </attr>
+    <attr name="iconKeyArrowDown" format="reference">
+    </attr>
+    <attr name="iconKeyArrowLeft" format="reference">
+    </attr>
+    <attr name="iconKeyArrowRight" format="reference">
+    </attr>
+    <attr name="iconKeyArrowUp" format="reference">
+    </attr>
+    <attr name="iconKeyBackspace" format="reference">
+    </attr>
+    <attr name="iconKeyCancel" format="reference">
+    </attr>
+    <attr name="iconKeyClipboardCopy" format="reference">
+    </attr>
+    <attr name="iconKeyClipboardCut" format="reference">
+    </attr>
+    <attr name="iconKeyClipboardFineSelect" format="reference">
+    </attr>
+    <attr name="iconKeyClipboardPaste" format="reference">
+    </attr>
+    <attr name="iconKeyClipboardSelect" format="reference">
+    </attr>
+    <attr name="iconKeyCondenseCompactToLeft" format="reference">
+    </attr>
+    <attr name="iconKeyCondenseCompactToRight" format="reference">
+    </attr>
+    <attr name="iconKeyCondenseNormal" format="reference">
+    </attr>
+    <attr name="iconKeyCondenseSplit" format="reference">
+    </attr>
+    <attr name="iconKeyControl" format="reference">
+    </attr>
+    <attr name="iconKeyForwardDelete" format="reference">
+    </attr>
+    <attr name="iconKeyGlobe" format="reference">
+    </attr>
+    <attr name="iconKeyImageInsert" format="reference">
+    </attr>
+    <attr name="iconKeyInputClear" format="reference">
+    </attr>
+    <attr name="iconKeyInputClipboardCopy" format="reference">
+    </attr>
+    <attr name="iconKeyInputClipboardCut" format="reference">
+    </attr>
+    <attr name="iconKeyInputClipboardPaste" format="reference">
+    </attr>
+    <attr name="iconKeyInputMoveEnd" format="reference">
+    </attr>
+    <attr name="iconKeyInputMoveHome" format="reference">
+    </attr>
+    <attr name="iconKeyInputSelectAll" format="reference">
+    </attr>
+    <attr name="iconKeyMic" format="reference">
+    </attr>
+    <attr name="iconKeyQuickText" format="reference">
+    </attr>
+    <attr name="iconKeyRedo" format="reference">
+    </attr>
+    <attr name="iconKeySettings" format="reference">
+    </attr>
+    <attr name="iconKeyShift" format="reference">
+    </attr>
+    <attr name="iconKeySpace" format="reference">
+    </attr>
+    <attr name="iconKeyTab" format="reference">
+    </attr>
+    <attr name="iconKeyUndo" format="reference">
+    </attr>
+    <attr name="isFunctional" format="reference|boolean">
+    </attr>
+    <attr name="keyBackground" format="reference">
+    </attr>
+    <attr name="keyDynamicEmblem">
+        <flag name="icon" value="2" />
+        <flag name="none" value="0" />
+        <flag name="text" value="1" />
+    </attr>
+    <attr name="keyHorizontalGap" format="reference|dimension">
+    </attr>
+    <attr name="keyHysteresisDistance" format="reference|dimension">
+    </attr>
+    <attr name="keyLabelIconAlign">
+        <flag name="auto" value="7" />
+        <flag name="center" value="17" />
+        <flag name="left" value="3" />
+        <flag name="right" value="5" />
+    </attr>
+    <attr name="keyLabelIconVAlign">
+        <flag name="auto" value="112" />
+        <flag name="bottom" value="80" />
+        <flag name="center" value="17" />
+        <flag name="top" value="48" />
+    </attr>
+    <attr name="keyLargeHeight" format="reference|dimension">
+    </attr>
+    <attr name="keyNormalHeight" format="reference|dimension">
+    </attr>
+    <attr name="keyPreviewBackground" format="reference">
+    </attr>
+    <attr name="keyPreviewLabelTextSize" format="reference|dimension">
+    </attr>
+    <attr name="keyPreviewOffset" format="reference|dimension">
+    </attr>
+    <attr name="keyPreviewTextColor" format="reference|color">
+    </attr>
+    <attr name="keyPreviewTextSize" format="reference|dimension">
+    </attr>
+    <attr name="keySmallHeight" format="reference|dimension">
+    </attr>
+    <attr name="keyTextCaseStyle">
+        <flag name="auto" value="0" />
+        <flag name="lowercase" value="1" />
+        <flag name="uppercase" value="2" />
+    </attr>
+    <attr name="keyTextColor" format="reference|color">
+    </attr>
+    <attr name="keyTextSize" format="reference|dimension">
+    </attr>
+    <attr name="keyTextStyle">
+        <flag name="bold" value="1" />
+        <flag name="italic" value="2" />
+        <flag name="normal" value="0" />
+    </attr>
+    <attr name="keyVerticalGap" format="reference|dimension">
+    </attr>
+    <attr name="key_type_action" format="boolean">
+    </attr>
+    <attr name="key_type_feedback" format="boolean">
+    </attr>
+    <attr name="key_type_function" format="boolean">
+    </attr>
+    <attr name="keyboardNameTextColor" format="reference|color">
+    </attr>
+    <attr name="keyboardNameTextSize" format="reference|dimension">
+    </attr>
+    <attr name="keyboardWallpaper" format="reference">
+    </attr>
+    <attr name="labelTextSize" format="reference|dimension">
+    </attr>
+    <attr name="longPressCode" format="reference|integer">
+    </attr>
+    <attr name="previewAnimationType">
+        <flag name="appear" value="2" />
+        <flag name="extend_key" value="1" />
+        <flag name="none" value="0" />
+    </attr>
+    <attr name="previewGestureTextColor" format="reference|color">
+    </attr>
+    <attr name="previewGestureTextSize" format="reference|dimension">
+    </attr>
+    <attr name="shadowColor" format="reference|color">
+    </attr>
+    <attr name="shadowOffsetX" format="reference|dimension">
+    </attr>
+    <attr name="shadowOffsetY" format="reference|dimension">
+    </attr>
+    <attr name="shadowRadius" format="reference|dimension">
+    </attr>
+    <attr name="shiftedCodes" format="reference|string|integer">
+    </attr>
+    <attr name="shiftedKeyLabel" format="reference|string">
+    </attr>
+    <attr name="showExtraHintOnPreview" format="reference|boolean">
+    </attr>
+    <attr name="showHintOnPreview" format="reference|boolean">
+    </attr>
+    <attr name="showInLayout">
+        <flag name="always" value="0" />
+        <flag name="if_applicable" value="1" />
+        <flag name="never" value="2" />
+    </attr>
+    <attr name="showPreview" format="reference|boolean">
+    </attr>
+    <attr name="suggestionBackgroundImage" format="reference">
+    </attr>
+    <attr name="suggestionCloseImage" format="reference">
+    </attr>
+    <attr name="suggestionDividerImage" format="reference">
+    </attr>
+    <attr name="suggestionNormalTextColor" format="reference|color">
+    </attr>
+    <attr name="suggestionOthersTextColor" format="reference|color">
+    </attr>
+    <attr name="suggestionPreferedWordTextSize" format="reference|dimension">
+    </attr>
+    <attr name="suggestionRecommendedTextColor" format="reference|color">
+    </attr>
+    <attr name="suggestionStripHeight" format="reference|dimension">
+    </attr>
+    <attr name="suggestionTextSize" format="reference|dimension">
+    </attr>
+    <attr name="suggestionWordXGap" format="reference|dimension">
+    </attr>
+    <attr name="swipeTypingColor" format="reference|color">
+    </attr>
+    <attr name="swipeTypingShadowColor" format="reference|color">
+    </attr>
+    <attr name="swipeTypingShadowOffsetX" format="reference|dimension">
+    </attr>
+    <attr name="swipeTypingShadowOffsetY" format="reference|dimension">
+    </attr>
+    <attr name="swipeTypingShadowRadius" format="reference|dimension">
+    </attr>
+    <attr name="swipeTypingStrokeAlphaStep" format="reference|integer">
+    </attr>
+    <attr name="swipeTypingStrokeMinAlpha" format="reference|float">
+    </attr>
+    <attr name="swipeTypingStrokeMinWidth" format="reference|dimension">
+    </attr>
+    <attr name="swipeTypingStrokeWidth" format="reference|dimension">
+    </attr>
+    <attr name="swipeTypingStrokeWidthStep" format="reference|dimension">
+    </attr>
+    <attr name="symbolColorScheme">
+        <flag name="black" value="1" />
+        <flag name="white" value="0" />
+    </attr>
+    <attr name="tags" format="reference|string">
+    </attr>
+    <attr name="verticalCorrection" format="reference|dimension">
+    </attr>
+</resources>

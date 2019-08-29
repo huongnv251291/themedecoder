@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="candidate_font_height">25sp</dimen>
+    <dimen name="candidate_strip_height">42dp</dimen>
+    <dimen name="default_key_half_height">52dp</dimen>
+    <dimen name="default_key_height">65dp</dimen>
+    <dimen name="default_key_horizontal_gap">4dp</dimen>
+    <dimen name="default_key_tall_height">78dp</dimen>
+    <dimen name="default_key_vertical_gap">6dp</dimen>
+    <dimen name="key_label_text_size">20sp</dimen>
+    <dimen name="key_text_size">29sp</dimen>
+</resources>

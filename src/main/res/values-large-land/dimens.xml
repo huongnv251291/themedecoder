@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="candidate_font_height">23sp</dimen>
+    <dimen name="candidate_strip_height">40dp</dimen>
+    <dimen name="default_key_half_height">32dp</dimen>
+    <dimen name="default_key_height">44dp</dimen>
+    <dimen name="default_key_horizontal_gap">3dp</dimen>
+    <dimen name="default_key_tall_height">56dp</dimen>
+    <dimen name="key_label_text_size">16sp</dimen>
+    <dimen name="key_text_size">24sp</dimen>
+</resources>

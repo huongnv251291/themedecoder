@@ -1,0 +1,58 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.4.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: Ev4fhLY5SvNv5IomHb7k1NO0UDE=
+
+Name: classes.dex
+SHA1-Digest: eS7WOeKM9ydTkshjaTgHfYjMtSI=
+
+Name: res/drawable-nodpi-v4/background.xml
+SHA1-Digest: IwWnkMPz2h9nCrvLy6K1ARkFnK4=
+
+Name: res/drawable-nodpi-v4/key_action.9.png
+SHA1-Digest: KkO0tjOI5fE6Z0YZiutvKzWu7jw=
+
+Name: res/drawable-nodpi-v4/key_action_pressed.9.png
+SHA1-Digest: dARPx8MBiT7fzhgvLHkQoeb9g+Q=
+
+Name: res/drawable-nodpi-v4/key_function.9.png
+SHA1-Digest: MTCt5i+8lnpg8PLN09psetDbdd4=
+
+Name: res/drawable-nodpi-v4/key_function_pressed.9.png
+SHA1-Digest: ikL3C41Iu97S3kAuhHwBexklnB4=
+
+Name: res/drawable-nodpi-v4/key_normal.9.png
+SHA1-Digest: xhnkVUG+a21qXWNycBQBw8z0RX0=
+
+Name: res/drawable-nodpi-v4/key_normal_pressed.9.png
+SHA1-Digest: ef/ovRd//ZQS75gFmZCUBTwPBgg=
+
+Name: res/drawable-nodpi-v4/popup_background.xml
+SHA1-Digest: yAoUSnzpvT5yZ+97tYQXRGE/rP0=
+
+Name: res/drawable/btn_keyboard_key.xml
+SHA1-Digest: P4AcOhvDLlCvFnsdlRcrTtRbwvU=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: x6FCzxjxO5d3gv9P92fgMITJZ98=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: UOMHiJlnL4t/3V1enXV7yUQcBQ4=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: T3kr27kXTi5K/AGG79jQVOKGJes=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: ifrRsus3wUgBpVEyGMS6rkHIT4o=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: DBWVY3yuRP9MX8DE6VY6e3wbWvs=
+
+Name: res/xml/three_d_themes.xml
+SHA1-Digest: FMl6jRLdCKQu4yVZzT6jvgJBCjo=
+
+Name: resources.arsc
+SHA1-Digest: DuFA216P5p/gjvRqrdjlRhYa8xk=
+

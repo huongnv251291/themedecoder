@@ -1,0 +1,59 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: y15dvZmLm+dGaLTcnQmosJ9AsBA=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: S6/KWHm5V2zqCngpF82R6zmJmQs=
+
+Name: classes.dex
+SHA1-Digest: PyFl6PRrCyI9ALsHzBoiJqhnxEk=
+
+Name: res/drawable-nodpi-v4/background.xml
+SHA1-Digest: B+CmZgLS3MCpYHRQ6USS2FF74wo=
+
+Name: res/drawable-nodpi-v4/key_action.9.png
+SHA1-Digest: vs1feiCzvRqJIfXBt8OkHpNTD/w=
+
+Name: res/drawable-nodpi-v4/key_action_pressed.9.png
+SHA1-Digest: 61S/yII3o6RsTjFRccAT/lMxOXM=
+
+Name: res/drawable-nodpi-v4/key_function.9.png
+SHA1-Digest: bqYcAYSLmYtcHk/sRvGalNJ9Waw=
+
+Name: res/drawable-nodpi-v4/key_function_pressed.9.png
+SHA1-Digest: 3xw1UFB7CgghQjRQc8zxBllW0co=
+
+Name: res/drawable-nodpi-v4/key_normal.9.png
+SHA1-Digest: 2bDJCB7PisbZEcYvY6Yh3Fq3If4=
+
+Name: res/drawable-nodpi-v4/key_normal_pressed.9.png
+SHA1-Digest: i/GnXpTe2fn5jntZXUM/QsY9Qhg=
+
+Name: res/drawable-nodpi-v4/popup_background.xml
+SHA1-Digest: KMX/nJLGT6AmxmRLPdJxjmrgsR4=
+
+Name: res/drawable/btn_keyboard_key.xml
+SHA1-Digest: 8YZVkTVIXRz5N3TYG/vHCT4apxA=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: i5BWha23y+AHFnwpXWXjsWZFDXY=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: TwQreyfE1JpbkE+Nw93jUGt1ijs=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: hpoaWWTpsVnjsoutnoG58x19wIw=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: WqDngZtOOTE90V5YKb4vuBWJFyo=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: GckG3MzScWWIxHJhkom73Iok01g=
+
+Name: res/xml/three_d_themes.xml
+SHA1-Digest: L7fsC2xE4+2Fjs3O8uuta0qAGEs=
+
+Name: resources.arsc
+SHA1-Digest: RjJbFl7o/e7G0k6NjCcAIWUnH3Q=
+

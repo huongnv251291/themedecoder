@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ask="http://schemas.android.com/apk/res-auto" android:versionCode="2116" android:versionName="4.0.516" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" package="com.anysoftkeyboard.theme.three_d" platformBuildVersionCode="28" platformBuildVersionName="9">
+
+    <application android:label="@string/three_d_app_name" android:icon="@mipmap/ic_launcher" android:allowBackup="false">
+        <receiver android:name="com.anysoftkeyboard.themes.three_d.pack.PackBroadcastReceiver" android:exported="true">
+            <intent-filter>
+                <action android:name="com.anysoftkeyboard.plugin.KEYBOARD_THEME"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.ALTERNATIVE"/>
+                <category android:name="android.intent.category.SELECTED_ALTERNATIVE"/>
+            </intent-filter>
+            <meta-data android:name="com.anysoftkeyboard.plugindata.keyboardtheme" android:resource="@xml/three_d_themes"/>
+        </receiver>
+    </application>
+</manifest>
